@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>men</folder>
+	<filename>05 (7).jpg</filename>
+	<path>/Users/soorajpandey/Downloads/Videos/men-women-classification/data/men/05 (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>man</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>4</ymin>
+			<xmax>351</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>
